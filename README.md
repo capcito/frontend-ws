@@ -16,8 +16,9 @@ Timebox ~ 3 hours
 https://my-json-server.typicode.com/capcito/frontend-ws/companies
 
 ## Definition of Done
-1. You're able to see a list of all companies.
-2. You're able to search by the company name.
-3. You're able to sort by the ID (ASC & DESC where DESC is default).
+1. You should be able to see a list of all companies.
+2. You should be able to **search** by the `name`.
+3. You should be able to **sort** by the `id` (ASC & DESC where DESC is default).
+4. You should be able to **filter** by `type` of company.
 
 Good Luck!
