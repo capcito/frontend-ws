@@ -1,0 +1,94 @@
+{
+    "companies": [
+        {
+            "id": 1,
+            "name": "Capcito Finance AB",
+            "type": "AB",
+            "created_at": "2021-01-01T11:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "name": "Capcito Systems AB",
+            "type": "AB",
+            "created_at": "2021-01-02T11:00:00.000Z"
+        },
+        {
+            "id": 3,
+            "name": "Spotify AB",
+            "type": "AB",
+            "created_at": "2021-01-03T11:00:00.000Z"
+        },
+        {
+            "id": 4,
+            "name": "Klarna Holding AB",
+            "type": "AB",
+            "created_at": "2021-01-04T11:00:00.000Z"
+        },
+        {
+            "id": 5,
+            "name": "Klarna Bank AB",
+            "type": "AB",
+            "created_at": "2021-01-05T11:00:00.000Z"
+        },
+        {
+            "id": 6,
+            "name": "Kalle Kula EF",
+            "type": "EF",
+            "created_at": "2021-01-06T11:00:00.000Z"
+        },
+        {
+            "id": 7,
+            "name": "Kalle Svensson EF",
+            "type": "EF",
+            "created_at": "2021-01-07T11:00:00.000Z"
+        },
+        {
+            "id": 8,
+            "name": "Super Company Handelsbolag",
+            "type": "HB",
+            "created_at": "2021-01-08T11:00:00.000Z"
+        },
+        {
+            "id": 9,
+            "name": "Amazon Web Services AB",
+            "type": "AB",
+            "created_at": "2021-01-09T11:00:00.000Z"
+        },
+        {
+            "id": 10,
+            "name": "No Carbs Company AB",
+            "type": "AB",
+            "created_at": "2021-01-10T11:00:00.000Z"
+        },
+        {
+            "id": 11,
+            "name": "Visma Enterprise AB",
+            "type": "AB",
+            "created_at": "2021-01-11T11:00:00.000Z"
+        },
+        {
+            "id": 12,
+            "name": "Visma Spcs AB",
+            "type": "AB",
+            "created_at": "2021-01-12T11:00:00.000Z"
+        },
+        {
+            "id": 13,
+            "name": "Billogram AB",
+            "type": "AB",
+            "created_at": "2021-01-13T11:00:00.000Z"
+        },
+        {
+            "id": 14,
+            "name": "Sthlm City Handelsbolag",
+            "type": "HB",
+            "created_at": "2021-01-14T11:00:00.000Z"
+        },
+        {
+            "id": 15,
+            "name": "Capcito Lending 2 AB",
+            "type": "AB",
+            "created_at": "2021-01-15T11:00:00.000Z"
+        }
+    ]
+}
