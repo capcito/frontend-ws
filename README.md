@@ -9,6 +9,7 @@ In addition, you should add in some sort of sorting mechanic.
 The task should preferably be built using Vue 3 or React.
 Bonus if you manage to include TailwindCSS & TypeScript, but that’s not a must-have.
 
+Once done, push your work to eg. GitHub and send the link to us,
 Timebox ~ 3 hours
 
 ## API Endpoint
