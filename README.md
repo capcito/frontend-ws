@@ -9,8 +9,8 @@ In addition, you should add in some sort of sorting mechanic.
 Even thought it's a small scope, think of performance, reusability & testability when writing your code.
 With that said, you don't necessarily need to write test-cases, but ideally written in a way that would allow you to write them later.
 
-The task should preferably be built using React.
-Bonus if you manage to include TypeScript, but that’s not a must-have.
+The task should preferably be built using React & TypeScript (tsx).
+Bonus if you manage to include your favourite way of styling components, but that’s not a must-have.
 
 Once done, push your work to eg. GitHub and send the link to us,
 Timebox ~ 3 hours
